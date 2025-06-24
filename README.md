@@ -12,5 +12,7 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 | 4       | Train a Small Language Model for Disease Symptoms using Unsloth     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/Train-a-Small-Language-Model-for-Disease-Symptoms-using-Unsloth.git) |
 | 5       | ORPO IN QWEN FINETUNING     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/ORPO-IN-QWEN-FINETUNING.git) |
 | 6       | End to End RAG Project using open source LLM Models     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/End-To-End-Advanced-RAG-Project-using-Open-Source-LLM-Models-And-Groq-Inferencing-engine.git) |
+| 7       | RAG Application using Langchain, OpenAI, FAISS     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/Rag-Application-using-OpenAI-Langchain-FAISS.git)  |
+
 
 <!-- Add more projects below as you complete them -->
