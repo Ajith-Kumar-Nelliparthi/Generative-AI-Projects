@@ -14,9 +14,13 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 | 6       | End to End RAG Project using open source LLM Models     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/End-To-End-Advanced-RAG-Project-using-Open-Source-LLM-Models-And-Groq-Inferencing-engine.git) |
 | 7       | RAG Application using Langchain, OpenAI, FAISS     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/Rag-Application-using-OpenAI-Langchain-FAISS.git)  |
 
-## Web Scrapping 
-| 1       | Web Scrapper To MySQL     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git)  |
-| 2       | Resume Maker and Web Scrapper     | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git) |
+## Web Scraping
+
+| Sr. No. | Name of the Project                | Link                                                                 |
+| ------- | ---------------------------------- | -------------------------------------------------------------------- |
+| 1       | Web Scraper To MySQL              | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git) |
+| 2       | Resume Maker and Web Scraper      | [GitHub Repo](https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git) |
+
 
 
 
